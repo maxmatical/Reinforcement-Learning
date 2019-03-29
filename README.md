@@ -7,6 +7,12 @@ https://github.com/qfettes/DeepRL-Tutorials
 
 https://github.com/yandexdataschool/Practical_RL
 
+https://github.com/ikostrikov/pytorch-rl
+
+https://github.com/ikostrikov?tab=repositories
+
+https://github.com/vitchyr/rlkit
+
 
 ## Useful links
 
