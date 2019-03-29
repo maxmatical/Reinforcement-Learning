@@ -1,6 +1,13 @@
 # Reinforcement-Learning
 A repo of deep reinforcement learning projects
 
+
+## Pytorch resources
+https://github.com/qfettes/DeepRL-Tutorials
+
+https://github.com/yandexdataschool/Practical_RL
+
+
 ## Useful links
 
 Start with this one
