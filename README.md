@@ -13,6 +13,8 @@ https://github.com/ikostrikov?tab=repositories
 
 https://github.com/vitchyr/rlkit
 
+### Pytorch Atari with A3C lstm
+https://github.com/Nasdin/ReinforcementLearning-AtariGame
 
 ## Useful links
 
