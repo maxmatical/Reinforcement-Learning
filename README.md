@@ -2,6 +2,11 @@
 A repo of deep reinforcement learning projects
 
 
+## videos
+https://www.youtube.com/channel/UCTgM-VlXKuylPrZ_YGAJHOw
+
+https://www.youtube.com/channel/UC7ZVvEo7-B7lA6LY2MVX72A
+
 ## Pytorch resources
 https://github.com/qfettes/DeepRL-Tutorials
 
@@ -24,3 +29,5 @@ https://github.com/sudharsan13296/Hands-On-Reinforcement-Learning-With-Python
 https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow
 
 https://github.com/simoninithomas/Deep_reinforcement_learning_Course
+
+
