@@ -18,6 +18,9 @@ https://github.com/ikostrikov?tab=repositories
 
 https://github.com/vitchyr/rlkit
 
+https://github.com/p-christ/Deep-Reinforcement-Learning-Algorithms-with-PyTorch?fbclid=IwAR03UNvIxYd-mNwGTCDyLUOg2ze0C1ewdQrS2X1d1A22yEf8sfQC7aV1ivw
+
+
 ### Pytorch Atari with A3C lstm
 https://github.com/Nasdin/ReinforcementLearning-AtariGame
 
