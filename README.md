@@ -1,6 +1,8 @@
 # Reinforcement-Learning
 A repo of deep reinforcement learning projects
 
+## Sutton Textbook solutions
+https://micahcarroll.github.io/learning/2018/05/17/sutton-and-barto-rl.html
 
 ## videos
 https://www.youtube.com/channel/UCTgM-VlXKuylPrZ_YGAJHOw
@@ -32,5 +34,7 @@ https://github.com/sudharsan13296/Hands-On-Reinforcement-Learning-With-Python
 https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow
 
 https://github.com/simoninithomas/Deep_reinforcement_learning_Course
+
+https://github.com/dennybritz/reinforcement-learning
 
 
