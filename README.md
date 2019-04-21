@@ -4,6 +4,9 @@ A repo of deep reinforcement learning projects
 ## Sutton Textbook solutions
 https://micahcarroll.github.io/learning/2018/05/17/sutton-and-barto-rl.html
 
+## Openai spinup
+https://spinningup.openai.com/en/latest/index.html
+
 ## videos
 https://www.youtube.com/channel/UCTgM-VlXKuylPrZ_YGAJHOw
 
