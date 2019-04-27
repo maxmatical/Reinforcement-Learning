@@ -13,7 +13,7 @@ https://www.youtube.com/channel/UCTgM-VlXKuylPrZ_YGAJHOw
 https://www.youtube.com/channel/UC7ZVvEo7-B7lA6LY2MVX72A
 
 ## Pytorch resources
-https://github.com/qfettes/DeepRL-Tutorials
+https://github.com/qfettes/DeepRL-Tutorials (Done on Atari- Pong)
 
 https://github.com/yandexdataschool/Practical_RL
 
