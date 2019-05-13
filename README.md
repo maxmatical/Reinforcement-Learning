@@ -1,6 +1,17 @@
 # Reinforcement-Learning
 A repo of deep reinforcement learning projects
 
+## Key algorithms to implement
+1. DQN
+2. Policy Gradient (REINFORCE)
+3. A2C
+4. A3C
+5. (Optional) TRPO
+6. PPO (important)
+7. DDPG
+8. Twin Delayed DDPG
+9. Soft Actor-Critic
+
 ## Sutton Textbook solutions
 https://micahcarroll.github.io/learning/2018/05/17/sutton-and-barto-rl.html
 
@@ -9,6 +20,7 @@ https://spinningup.openai.com/en/latest/index.html
 
 - Introduces key SOTA algorithms to learn
 - TODO: find pytorch implementations of listed algorithms
+
 
 ## videos
 https://www.youtube.com/channel/UCTgM-VlXKuylPrZ_YGAJHOw
