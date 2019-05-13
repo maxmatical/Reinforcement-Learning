@@ -3,6 +3,7 @@ A repo of deep reinforcement learning projects
 
 ## Key algorithms to implement
 1. DQN
+  - Tutorial on Cartpole: https://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html (can extend to atari games)
 2. Policy Gradient (REINFORCE)
 3. A2C
 4. A3C
