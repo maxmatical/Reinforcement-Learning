@@ -30,6 +30,10 @@ https://medium.com/aureliantactics/beating-easy-mode-on-contra-iii-with-reinforc
 
 https://spinningup.openai.com/en/latest/user/running.html#launching-from-scripts
 
+## Pytorch baseline models
+
+https://github.com/zuoxingdong/lagom
+
 ## videos
 https://www.youtube.com/channel/UCTgM-VlXKuylPrZ_YGAJHOw
 
