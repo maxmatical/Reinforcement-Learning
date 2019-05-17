@@ -22,6 +22,9 @@ https://spinningup.openai.com/en/latest/index.html
 - Introduces key SOTA algorithms to learn
 - TODO: find pytorch implementations of listed algorithms
 
+Examples using spinup models
+
+https://github.com/openai/spinningup/tree/master/spinup/examples
 
 ## videos
 https://www.youtube.com/channel/UCTgM-VlXKuylPrZ_YGAJHOw
