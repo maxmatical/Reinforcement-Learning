@@ -26,6 +26,8 @@ Examples using spinup models
 
 https://github.com/openai/spinningup/tree/master/spinup/examples
 
+https://medium.com/aureliantactics/beating-easy-mode-on-contra-iii-with-reinforcement-learning-part-1-introduction-f004562f9840
+
 ## videos
 https://www.youtube.com/channel/UCTgM-VlXKuylPrZ_YGAJHOw
 
