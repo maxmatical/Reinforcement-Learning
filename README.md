@@ -34,6 +34,8 @@ https://spinningup.openai.com/en/latest/user/running.html#launching-from-scripts
 
 https://github.com/zuoxingdong/lagom
 
+https://github.com/openai/baselines
+
 ## videos
 https://www.youtube.com/channel/UCTgM-VlXKuylPrZ_YGAJHOw
 
