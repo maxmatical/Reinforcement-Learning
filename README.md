@@ -30,7 +30,7 @@ https://medium.com/aureliantactics/beating-easy-mode-on-contra-iii-with-reinforc
 
 https://spinningup.openai.com/en/latest/user/running.html#launching-from-scripts
 
-## Pytorch baseline models
+## Pytorch baseline models (best for implementation of RL algorithms)
 
 https://github.com/zuoxingdong/lagom
 
