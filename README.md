@@ -36,6 +36,9 @@ https://github.com/zuoxingdong/lagom
 
 https://github.com/openai/baselines
 
+https://github.com/hill-a/stable-baselines
+
+
 ## videos
 https://www.youtube.com/channel/UCTgM-VlXKuylPrZ_YGAJHOw
 
