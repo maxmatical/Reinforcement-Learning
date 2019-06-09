@@ -72,6 +72,6 @@ https://github.com/simoninithomas/Deep_reinforcement_learning_Course
 
 https://github.com/dennybritz/reinforcement-learning
 
-**TF2**: http://inoryy.com/post/tensorflow2-deep-reinforcement-learning/
+**A2C in TF2**: http://inoryy.com/post/tensorflow2-deep-reinforcement-learning/
 
 
